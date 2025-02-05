@@ -32,4 +32,4 @@ I am an enthusiastic web developer and programmer with a passion for building sc
 
 
 ---
-⭐️ Inspired by your awesome skills! Feel free to customize this README.
+
