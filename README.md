@@ -3,6 +3,10 @@
 ## 🚀 About Me
 I am an enthusiastic web developer and programmer with a passion for building scalable applications and exploring new technologies. I specialize in both frontend and backend development, with expertise in modern frameworks and cloud solutions. Always eager to learn and grow in the ever-evolving tech landscape!
 
+## 📫 Contact Me
+- **Email:** ms.ivas010@gmail.com
+- **LinkedIn:** https://www.linkedin.com/in/sai-siva-srinivas-munduru/
+
 ## 🛠️ Languages and Tools
 
 ### 🎨 Frontend Development:
@@ -26,10 +30,6 @@ I am an enthusiastic web developer and programmer with a passion for building sc
 ### 🎮 Game Development & Graphics:
 ![Unreal Engine](https://img.shields.io/badge/-Unreal%20Engine-black?style=flat&logo=unreal-engine) ![Blender](https://img.shields.io/badge/-Blender-orange?style=flat&logo=blender) ![CanvasJS](https://img.shields.io/badge/-CanvasJS-lightgrey?style=flat)
 
-## 📫 Contact Me
-- **Email:** [Your Email]
-- **LinkedIn:** [Your LinkedIn]
-- **GitHub:** [Your GitHub Profile]
 
 ---
 ⭐️ Inspired by your awesome skills! Feel free to customize this README.
