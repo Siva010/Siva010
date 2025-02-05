@@ -1,6 +1,6 @@
 # ![Banner](White%20Simple%20Minimalist%20LinkedIn%20Banner.png)
 
-# Hi, I'm M Sai Siva Srinivas 👋
+# Myself, M Sai Siva Srinivas👋
 
 ## 🚀 About Me
 I am an enthusiastic web developer and programmer with a passion for building scalable applications and exploring new technologies. I specialize in both frontend and backend development, with expertise in modern frameworks and cloud solutions. Always eager to learn and grow in the ever-evolving tech landscape!
