@@ -7,9 +7,8 @@
 ## 🚀 About Me
 I am an enthusiastic web developer and programmer with a passion for building scalable applications and exploring new technologies. I specialize in both frontend and backend development, with expertise in modern frameworks and cloud solutions. Always eager to learn and grow in the ever-evolving tech landscape!
 
-<a href="https://www.linkedin.com/in/sai-siva-srinivas-munduru/" target="_blank">
-  <img src="https://img.shields.io/badge/Connect-%40sai-siva-srinivas-munduru-lightgrey?style=flat" alt="Connect Button">
-</a>
+[![Connect](https://img.shields.io/badge/Connect-%40sai-siva-srinivas-munduru-lightgrey?style=flat)](https://www.linkedin.com/in/sai-siva-srinivas-munduru/)
+
 
 ## 🛠️ Languages and Tools
 
