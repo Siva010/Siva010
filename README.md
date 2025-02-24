@@ -2,15 +2,13 @@
 
 # ![Banner](White%20Simple%20Minimalist%20LinkedIn%20Banner.png)
 
-# MySelf,M Sai Siva Srinivas 👋
+# MySelf, M Sai Siva Srinivas 👋
 
 ## 🚀 About Me
 I am an enthusiastic web developer and programmer with a passion for building scalable applications and exploring new technologies. I specialize in both frontend and backend development, with expertise in modern frameworks and cloud solutions. Always eager to learn and grow in the ever-evolving tech landscape!
 
-<a href="https://www.linkedin.com/in/sai-siva-srinivas-munduru/" target="_blank" style="text-decoration: none;">
-    <button style="background-color: #f5f5f5; border: 1px solid #ccc; padding: 6px 12px; border-radius: 5px; font-size: 14px; cursor: pointer;">
-        Connect @sai-siva-srinivas-munduru
-    </button>
+<a href="https://www.linkedin.com/in/sai-siva-srinivas-munduru/" target="_blank">
+    <img src="https://img.shields.io/badge/Connect-%40sai--siva--srinivas--munduru-lightgrey?style=for-the-badge" alt="Connect">
 </a>
 
 ## 🛠️ Languages and Tools
@@ -38,10 +36,9 @@ I am an enthusiastic web developer and programmer with a passion for building sc
 
 ## 📫 Contact Me
 - **Email:** ms.ivas010@gmail.com
-- **LinkedIn:** [Your LinkedIn]
+- **LinkedIn:** [Your LinkedIn](https://www.linkedin.com/in/sai-siva-srinivas-munduru/)
 - **GitHub:** [Your GitHub Profile]
 
 ---
-⭐️ Inspired by your awesome skills! Feel free to customize this README.
 
 </div>
