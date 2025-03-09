@@ -37,7 +37,7 @@ I am an enthusiastic web developer and programmer with a passion for building sc
 ## 📫 Contact Me
 - **Email:** ms.ivas010@gmail.com
 - **LinkedIn:** [Your LinkedIn](https://www.linkedin.com/in/sai-siva-srinivas-munduru/)
-- **GitHub:** [Your GitHub Profile]
+
 
 ---
 
